@@ -2,6 +2,7 @@
 On ChromeOS download the files to your machine and open the Boot Doom.html in Chrome and run flash when asked.
 
 CONTROLS 
+
 ESC	Opens the menu.
 
 TAB	Opens the automap.
