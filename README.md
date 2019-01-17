@@ -1,7 +1,7 @@
 # Doom-Flash-Custom-Loader-for-ChromeOS
 On ChromeOS download the files to your machine and open the Boot Doom.html in Chrome and run flash when asked.
 
-CONTROLS
+CONTROLS 
 ESC	Opens the menu.
 TAB	Opens the automap.
 ~	Opens the console.
